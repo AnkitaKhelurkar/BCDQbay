@@ -1,0 +1,3518 @@
+{
+  "AU ADM": [
+    {
+      "dbcolumn": "ADM_NUMBER",
+      "Active": "1",
+      "Copy": "1",
+      "Mask": "1",
+      "label": "ADM Number",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Function_Name",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Function Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ADM_DATE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "ADM date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DATE_SENT_TO_ADMS",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Date sent to ADMs",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PNR",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "PNR",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "COMPANY_NAME",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Company Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PASSENGER_NAME",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Passenger Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TICKET_NUMBER",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Ticket number",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "AIRLINE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Airline",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ADM_AMOUNT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "ADM amount",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Comments",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Comment",
+      "type": "textbox"
+    },
+    {
+      "dbcolumn": "DISPOSITION_COMMENT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Disposition Comment",
+      "type": "textbox"
+    }
+  ],
+  "NORAM DQS": [
+    {
+      "dbcolumn": "UNIQUE_KEY",
+      "Active": "1",
+      "Copy": "1",
+      "Mask": "1",
+      "label": "Unique Key",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Function_Name",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Function Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "INVOICE_NUMBER",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Invoice Number",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "RECORD_LOCATOR",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Record Locator",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ERROR_DESCRIPTION",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Error Description",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "FIELD_NAME",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Field Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "FIELD_VALUE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Field Value",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "GLOBAL_CUSTOMER",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Global Customer",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "GLOBAL_CUSTOMER_NAME",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Global Customer Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "AGENCY",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Agency",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ERROR_TYPE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Error Type",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "CREATED_DATE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Created Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "INVOICE_DATE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Invoice Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "FILENAME",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Filename",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "LAST_VIEWED",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Last Viewed",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "VIEWED_BY",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Viewed By",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Comments",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Comment",
+      "type": "textbox"
+    },
+    {
+      "dbcolumn": "DISPOSITION_COMMENT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Disposition Comment",
+      "type": "textbox"
+    }
+  ],
+  "EU ADM_INVOICE": [
+    {
+      "dbcolumn": "ADM_NUMBER",
+      "Active": "1",
+      "Copy": "1",
+      "Mask": "1",
+      "label": "ADM Number",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Function_Name",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Function Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DATE_MMDDYYYY",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "DATE (MM/DD/YYYY)",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "CUSTOMER",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Customer",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "COUNTRY",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Country",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DIVISION",
+      "Active": "0",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Division",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "REGION",
+      "Active": "0",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Region",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TICKET_NUMBER",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Ticket Number",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "GDS",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "GDS",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ADM_PRINCIPAL",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "ADM Principal",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ADM_ADMIN",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "ADM Admin",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ADM_TOTAL",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "ADM Total",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "CURRENCY",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Currency",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TOTAL_PAID",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Total Paid",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "CATEGORY_REASON",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Category/Reason",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ROOT_CAUSE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Root Cause",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "RECORD_LOCATOR",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Record Locator",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DMAR_AGENT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "DMAR Agent",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TICKET_TYPE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Ticket Type",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "AGENT_SINE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Agent Sine",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PCC_OID",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "PCC/OID",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PAYMENT_DESCRIPTION",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "PAYMENT DESCRIPTION",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PAYMENT_REQUEST_AMOUNT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "PAYMENT REQUEST AMOUNT",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "CLOSE_REASON",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Close Reason",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "NOTES",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Notes",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "AGENT_INITIALS",
+      "Active": "0",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Agent Initials",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "STATUS",
+      "Active": "0",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Status",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DATE_CLOSED_MMDDYYYY",
+      "Active": "0",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Date Closed (MM/DD/YYYY)",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "AGM_INVOICED",
+      "Active": "0",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "AGM Invoiced",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "REMARKS",
+      "Active": "0",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Remarks",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "BRIM_AGM",
+      "Active": "0",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "BRIM/AGM",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Comments",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Comment",
+      "type": "textbox"
+    },
+    {
+      "dbcolumn": "DISPOSITION_COMMENT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Disposition Comment",
+      "type": "textbox"
+    }
+  ],
+  "EU SNAPCONFERMA": [
+    {
+      "dbcolumn": "TRANSACTION_ID",
+      "Active": "1",
+      "Copy": "1",
+      "Mask": "1",
+      "label": "Transaction ID",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Function_Name",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Function Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "BUSINESS_PROCESS_DATE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Business Process Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TRANSACTION_DESCRIPTION",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Transaction Description",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TRANSACTION_DESCRIPTION_2",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Transaction Description 2",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TRANSACTION_DESCRIPTION_3",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Transaction Description 3",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SUPPLIER_ADDRESS",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Supplier Address",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SUPPLIER_ADDRESS_2",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Supplier Address 2",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SUPPLIER_ADDRESS_3",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Supplier Address 3",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SUPPLIER_ADDRESS_4",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Supplier Address 4",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SUPPLIER_CITY",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Supplier City",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SUPPLIER_POSTAL_CODE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Supplier Postal Code",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SUPPLIER_COUNTRY",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Supplier Country",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SUBMITTED_CURRENCY_AMOUNT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Submitted Currency Amount",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "NET_BILLED_AMOUNT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Net Billed Amount",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "RECEIVED",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Received",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DATE_E_MAILED",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Date E-mailed",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "NOTES",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Notes",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "NOTES_2",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Notes 2",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "STATUS",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Status",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PNR",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "PNR",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DOC_ID",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "DOC ID",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SAP",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Sap",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "MISC",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Misc",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "BCD_INV",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "BCD Inv",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "BCD_INV_CORRECT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "BCD INV CORRECT",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "INV_TYPE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Inv Type",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ACC_NO",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Acc No",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Comments",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Comment",
+      "type": "textbox"
+    },
+    {
+      "dbcolumn": "DISPOSITION_COMMENT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Disposition Comment",
+      "type": "textbox"
+    }
+  ],
+  "EU SNAPCONFERMA_BBI": [
+    {
+      "dbcolumn": "TransactionID",
+      "Active": "1",
+      "Copy": "1",
+      "Mask": "1",
+      "label": "TransactionID",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Function_Name",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Function Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TransactionDate",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "TransactionDate",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TransactionPostDate",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "TransactionPostDate",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TransactionAccountAmount",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "TransactionAccountAmount",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TransactionAccountCurrencyCode",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "TransactionAccountCurrencyCode",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TransactionMerchantAmount",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "TransactionMerchantAmount",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TransactionMerchantCurrencyCode",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "TransactionMerchantCurrencyCode",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TransactionMerchantNarrative",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "TransactionMerchantNarrative",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TransactionCountryCode",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "TransactionCountryCode",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TransactionMCC",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "TransactionMCC",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TransactionAuthorisationCode",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "TransactionAuthorisationCode",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TransactionCardLastFourDigits",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "TransactionCardLastFourDigits",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TransactionCardIssuerName",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "TransactionCardIssuerName",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TransactionCardIssuerReference",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "TransactionCardIssuerReference",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TransactionImportDate",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "TransactionImportDate",
+      "type": "label"
+    },
+
+    {
+      "dbcolumn": "DeploymentID",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "DeploymentID",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DeploymentClientID",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "DeploymentClientID",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DeploymentClientName",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "DeploymentClientName",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DeploymentPlatform",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "DeploymentPlatform",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DeploymentPlatformUsername",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Deployment Platform Username",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DeploymentStatus",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Deployment Status",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DeploymentAmount",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Deployment Amount",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DeploymentCurrencycode",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Deployment Currency Code",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DeploymentName",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Deployment Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DeploymentStartDate",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Deployment Start Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DeploymentEndDate",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Deployment End Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DeploymentConsumerReference",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Deployment Consumer Reference",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DeploymentCustomerID",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Deployment Customer ID",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DeploymentCustomerName",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Deployment Customer Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DeploymentPNRWorkArea",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Deployment PNRWork Area",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SupplierID",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "SupplierID",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SupplierName",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "SupplierName",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SupplierAddress1",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Supplier Address 1",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SupplierAddress2",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Supplier Address 2",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SupplierCity",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Supplier City",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SupplierPostalOrZipCode",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Supplier Postal Or ZipCode",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SupplierCountryCode",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Supplier Country Code",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SupplierTelephone",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Supplier Telephone",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SupplierFax",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Supplier Fax",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SupplierEmail",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Supplier Email",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SupplierReference",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Supplier Reference",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TravellerName",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Traveller Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "AirRoute",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Air Route",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "HotelArrivalDate",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Hotel Arrival Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "HotelDepartureDate",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Hotel Departure Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "HotelBookingPlatform",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Hotel Booking Platform",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "HotelRoomType",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Hotel Room Type",
+      "type": "label"
+    },
+
+    {
+      "dbcolumn": "HotelRateInformation",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Hotel Rate Information",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "HotelCancellationPolicy",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Hotel Cancellation Policy",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "HotelCancellationReference",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Hotel Cancellation Reference",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "HotelCareOfName",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Hotel Care OfName",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "HotelContactName",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Hotel ContactName",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "HotelPaymentRestrictions",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Hotel Payment Restrictions",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "HotelComments",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Hotel Comments",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "GroundTransportationVehicleModel",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Ground Transportation Vehicle Model",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "GroundTransportationVehicleDescription",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Ground Transportation Vehicle Description",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "GroundTransportationRegistrationNumber",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Ground Transportation RegistrationNumber",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "GroundTransportationPickupLocation",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Ground Transportation Pickup Location",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "GroundTransportationPickupDateTime",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Ground Transportation Pickup DateTime",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "GroundTransportationDropoffLocation",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Ground Transportation Dropoff Location",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "GroundTransportationDropoffDateTime",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Ground Transportation Dropoff DateTime",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "RailOutboundStartLocation",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Rail Outbound Start Location",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "RailOutboundStartDateTime",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Rail Outbound Start DateTime",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "RailReturnEndLocation",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Rail Return End Location",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "RailOutboundEndDateTime",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Rail Return End DateTime",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "RailOutboundOperatorName",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Rail Outbound Operator Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "RailOutboundTicketCost",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Rail Outbound Ticket Cost",
+      "type": "label"
+    },
+
+    {
+      "dbcolumn": "RailReturnTicketDescription",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Rail Return Ticket Description",
+      "type": "label"
+    },
+
+    {
+      "dbcolumn": "RailReturnStartLocation",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Rail Return Start Location",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "RailReturnStartDateTime",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Rail Return Start DateTime",
+      "type": "label"
+    },
+
+    {
+      "dbcolumn": "RailReturnEndDateTime",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Rail Return End DateTime",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "RailReturnOperatorName",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Rail Return Operator Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "RailReturnTicketCost",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Rail Return Ticket Cost",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "RailReturnTicketClass",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Rail Return Ticket Class",
+      "type": "label"
+    },
+
+    {
+      "dbcolumn": "TransactionReferenceNumber",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Transaction Reference Number",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ParentSpendCategory",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Parent Spend Category",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SubSpendcategory",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Sub Spend category",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PNR_Reference",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "PNR Reference",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Doc_ID",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Doc ID",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TAX_CODE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "TAX CODE",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SAP",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "SAP",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "BCD_INV",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "BCD INV",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "CORRECTION",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "CORRECTION",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TYPE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "TYPE",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ACC_NO",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "ACC NO",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DISPOSITION_COMMENT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Disposition Comment",
+      "type": "textbox"
+    }
+  ],
+  "APAC BRIM_ERROR": [
+    {
+      "dbcolumn": "Bookings_ID",
+      "Active": "1",
+      "Copy": "1",
+      "Mask": "1",
+      "label": "BookingsID (PNR)",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Function_Name",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Function Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Region",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Region",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Company",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Company",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Country",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Country",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "BRIM_Date",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PCC_OID_BookingCode",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "PCC/OID (BookingCode)",
+      "type": "label"
+    },
+
+    {
+      "dbcolumn": "Process",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Process",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Sales_Void_RefundIndicator",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Sales/Void/Refund Indicator",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Agent_Skillset",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Agent Skillset",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ArticleType",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Article Type",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ArticleID",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "# ArticleID",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ErrorCount",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "# Errors",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Error_Field_Name",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Error Field Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "BookingIDCount",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "# BookingID",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "BOOKING_URL",
+      "Active": "1",
+      "Copy": "1",
+      "Mask": "0",
+      "label": "URL BookingID",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Comments",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Comment",
+      "type": "textbox"
+    },
+    {
+      "dbcolumn": "DISPOSITION_COMMENT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Disposition Comment",
+      "type": "textbox"
+    }
+  ],
+  "EU BRIM_ERROR": [
+    {
+      "dbcolumn": "Bookings_ID",
+      "Active": "1",
+      "Copy": "1",
+      "Mask": "1",
+      "label": "BookingsID (PNR)",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Function_Name",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Function Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Region",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Region",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Company",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Company",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Country",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Country",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "BRIM_Date",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PCC_OID_BookingCode",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "PCC/OID (BookingCode)",
+      "type": "label"
+    },
+
+    {
+      "dbcolumn": "Process",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Process",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Sales_Void_RefundIndicator",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Sales/Void/Refund Indicator",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Agent_Skillset",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Agent Skillset",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ArticleType",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Article Type",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ArticleID",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "# ArticleID",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ErrorCount",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "# Errors",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Error_Field_Name",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Error Field Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "BookingIDCount",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "# BookingID",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "BOOKING_URL",
+      "Active": "1",
+      "Copy": "1",
+      "Mask": "0",
+      "label": "URL BookingID",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Comments",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Comment",
+      "type": "textbox"
+    },
+    {
+      "dbcolumn": "DISPOSITION_COMMENT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Disposition Comment",
+      "type": "textbox"
+    }
+  ],
+  "APAC_SG_CC_DECLINE": [
+    {
+      "dbcolumn": "INVOICE",
+      "Active": "1",
+      "Copy": "1",
+      "Mask": "1",
+      "label": "Invoice",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "CARD_NUMBER",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Card Number",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Function_Name",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Function Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "CARD",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Card",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DATE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "AMOUNT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Amount",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ERROR_TYPE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Error Type",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "AGENT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Agent",
+      "type": "label"
+    },
+
+    {
+      "dbcolumn": "PNR",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "PNR",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DK_NO",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "DK Number",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "COMPANY",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Company",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PASSENGER_NAME",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Passenger Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "WNS_FIRST_ACTIONED",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "WNS First Actioned",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "WNS_RESOURCE_NAME",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "WNS Resource Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "FOP_ERROR",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "FOP Error",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "IND_OR_BTA_CARD",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "IND/BTA Card",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "EMAIL_SENT_TO",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Email Sent To",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PAYMENT_RECEIVED",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Payment Received",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PAYMENT_RECEIVED_VALUE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Payment Received Value",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "STATUS",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Status",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PROGRAM_MANAGER",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Program Manager",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Comments",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Comment",
+      "type": "textbox"
+    },
+    {
+      "dbcolumn": "DISPOSITION_COMMENT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Disposition Comment",
+      "type": "textbox"
+    }
+  ],
+  "APAC_AU_CC_DECLINE": [
+    {
+      "dbcolumn": "INVOICE",
+      "Active": "1",
+      "Copy": "1",
+      "Mask": "1",
+      "label": "Invoice",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "CARD_NUMBER",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Card Number",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Function_Name",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Function Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "CARD",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Card",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DATE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "AMOUNT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Amount",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ERROR_TYPE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Error Type",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "AGENT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Agent",
+      "type": "label"
+    },
+
+    {
+      "dbcolumn": "PNR",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "PNR",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DK_NO",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "DK Number",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "COMPANY",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Company",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PASSENGER_NAME",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Passenger Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "GCN",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "GCN",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "GCN_COMPANY_NAME",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "GCN Company Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "WNS_FIRST_ACTIONED",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "WNS First Actioned",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "WNS_RESOURCE_NAME",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "WNS Resource Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "FOP_ERROR",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "FOP Error",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "IND_OR_BTA_CARD",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "IND/BTA Card",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "EMAIL_SENT_TO",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Email Sent To",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PAYMENT_RECEIVED",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Payment Received",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PAYMENT_RECEIVED_VALUE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Payment Received Value",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "STATUS",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Status",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PROGRAM_MANAGER",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Program Manager",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Comments",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Comment",
+      "type": "textbox"
+    },
+    {
+      "dbcolumn": "DISPOSITION_COMMENT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Disposition Comment",
+      "type": "textbox"
+    }
+  ],
+  "EU BSP_MISSING_TICKETS": [
+    {
+      "dbcolumn": "TICKET_REFERENCE",
+      "Active": "1",
+      "Copy": "1",
+      "Mask": "1",
+      "label": "Ticket Reference",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PNR_INDICATOR",
+      "Active": "1",
+      "Copy": "1",
+      "Mask": "1",
+      "label": "PNR Indicator",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Function_Name",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Function Name",
+      "type": "label"
+    },
+
+    {
+      "dbcolumn": "COMPANY_CODE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Company Code",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PCC",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "PCC",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "AIRLINE_CODE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Airline Code",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "NAME_OF_PASSENGER",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Name Of Passenger",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TICKETING_AGENT_CODE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Ticket Agent Code",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ISSUE_DATE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Issue Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ISSUE_TIME",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Issue Time",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Comments",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Comment",
+      "type": "textbox"
+    },
+    {
+      "dbcolumn": "DISPOSITION_COMMENT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Disposition Comment",
+      "type": "textbox"
+    }
+  ],
+  "EU BRIM_BSP_MATCHING": [
+    {
+      "dbcolumn": "CASE_ID",
+      "Active": "1",
+      "Copy": "1",
+      "Mask": "1",
+      "label": "Case ID",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TICKET_NUMBER",
+      "Active": "1",
+      "Copy": "1",
+      "Mask": "1",
+      "label": "Ticket Number",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Function_Name",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Function Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "CASE_GROUP_ID",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Case Group ID",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DISPUTE_ERROR",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Dispute Error",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DISPUTE_CASE_ERROR",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Dispute Case Error",
+      "type": "label"
+    },
+
+    {
+      "dbcolumn": "COMPANY_CODE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Company Code",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DOCUMENT_NUMBER",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Document Number",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DOCUMENT_TYPE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Document Type",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DOCUMENT_DATE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Document Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "REF_DOCUMENT_NUMBER",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Ref Document Number",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PERSON_RESPONSE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Person Response",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "REASON",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Reason",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "REASON_OF_DISPUTE_CASE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Reason Of Dispute Case",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DISPUTED_AMOUNT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Disputed Amount",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "RISK_AMOUNT_ON_SELECTION",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Risk Amount On Selection",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Comments",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Comment",
+      "type": "textbox"
+    },
+    {
+      "dbcolumn": "DISPOSITION_COMMENT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Disposition Comment",
+      "type": "textbox"
+    }
+  ],
+  "EU BRIM_BBI": [
+    {
+      "dbcolumn": "TRANSACTION_ID",
+      "Active": "1",
+      "Copy": "1",
+      "Mask": "1",
+      "label": "Transaction ID",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DEPLOYMENT_PNR_LOCATOR",
+      "Active": "1",
+      "Copy": "1",
+      "Mask": "1",
+      "label": "Deployment PNR Locator",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Function_Name",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Function Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TRANSACTION_DATE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Transaction Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TRANSACTION_POST_DATE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Transaction Post Date",
+      "type": "label"
+
+    },
+    {
+      "dbcolumn": "TRANSACTION_ACCOUNT_AMOUNT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Transaction Account Amount",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TRANSACTION_ACCOUNT_CURRENCY_CODE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Transaction Account Currency Code",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TRANSACTION_MERCHANT_AMOUNT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Transaction Merchant Amount",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TRANSACTION_MERCHANT_CURRENCY_CODE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Transaction Merchant Currency Code",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TRANSACTION_MERCHANT_NARRATIVE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Transaction Merchant Narrative",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TRANSACTION_COUNTRY_CODE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Transaction Country Code",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TRANSACTION_MCC",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Transaction MCC",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TRANSACTION_AUTHORISATION_CODE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Transaction AUth Code",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TRANSACTION_CARD_ISSUER_NAME",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Transaction Card Issuer Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TRANSACTION_CARD_ISSUER_REFERENCE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Transaction Card Issuer Reference",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Comments",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Comment",
+      "type": "textbox"
+    },
+    {
+      "dbcolumn": "DISPOSITION_COMMENT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Disposition Comment",
+      "type": "textbox"
+    }
+  ],
+  "EU DQS": [
+    {
+      "dbcolumn": "UNIQUE_KEY",
+      "Active": "1",
+      "Copy": "1",
+      "Mask": "1",
+      "label": "Unique Key",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Function_Name",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Function Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "INVOICE_NUMBER",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Invoice Number",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "RECORD_LOCATOR",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Record Locator",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ERROR_DESCRIPTION",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Error Description",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "FIELD_NAME",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Field Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "FIELD_VALUE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Field Value",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "GLOBAL_CUSTOMER",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Global Customer",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "GLOBAL_CUSTOMER_NAME",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Global Customer Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "AGENCY",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Agency",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ERROR_TYPE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Error Type",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "CREATED_DATE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Created Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "INVOICE_DATE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Invoice Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "FILENAME",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Filename",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "LAST_VIEWED",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Last Viewed",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "VIEWED_BY",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Viewed By",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Comments",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Comment",
+      "type": "textbox"
+    },
+    {
+      "dbcolumn": "DISPOSITION_COMMENT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Disposition Comment",
+      "type": "textbox"
+    }
+
+  ],
+  "SLA_AMEX": [
+    {
+      "dbcolumn": "QUERY_ID",
+      "Active": "1",
+      "Copy": "1",
+      "Mask": "1",
+      "label": "Query Id",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Function_Name",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Function Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ACCOUNT_NAME",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Account Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ACCOUNT_NUMBER",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Account Number",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ACTION",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Action",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "INVOICE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Invoice",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "BILL_AMOUNT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Bill Amount",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "CHARGE_AMOUNT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Charge Amount",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TICKET_NO",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Ticket Number",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SUPPLIER_NAME",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Supplier Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DESTINATION",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Destination",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DEPARTURE_DATE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Departure Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "INITIALS",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Initials",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SURNAME",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Surname",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "INVOICE_DATE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Invoice Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Comments",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Comment",
+      "type": "textbox"
+    },
+    {
+      "dbcolumn": "DISPOSITION_COMMENT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Disposition Comment",
+      "type": "textbox"
+    }
+  ],
+  "AMEX_BTA": [
+    {
+      "dbcolumn": "ASSIGNMENT",
+      "Active": "1",
+      "Copy": "1",
+      "Mask": "1",
+      "label": "Assignment",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Function_Name",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Function Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "CO_CD",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "CoCd",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ACCOUNT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Account",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SAP_UNIQUE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "SAP Unique",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "STATEMENT_DATE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Statement Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TRANS_DATE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Trans. Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "CURRENCY",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Curr",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "AMOUNT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Amount",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TRAVELLER",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Traveller",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DEPARTURE_AIRPORT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Depart. Airport",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DESTINATION_AIRPORT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Destin. Airport",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DEPARTURE_DATE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Dep. Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TRANS_DETAILS",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Trans. Details",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SUPPLIER",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Supplier",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SUPPLIER_REFERENCE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Supplier Reference",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "INVOICE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Invoice",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Comments",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Comment",
+      "type": "textbox"
+    },
+    {
+      "dbcolumn": "DISPOSITION_COMMENT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Disposition Comment",
+      "type": "textbox"
+    }
+  ],
+  "FR Prematching": [
+    {
+      "dbcolumn": "TICKET_NUMBER",
+      "Active": "1",
+      "Copy": "1",
+      "Mask": "1",
+      "label": "Ticket Number",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Function_Name",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Function Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SERIAL_NUMBER",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Serial Number",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "RAIL",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Rail",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PASSENGER_AMOUNT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Passenger Amount",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "CREDIT_CARD",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Credit Card",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PASSENGER_NAME",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Passenger Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PNR1",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "PNR1",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PNR2",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "PNR2",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PNR",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "PNR",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Comments",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Comment",
+      "type": "textbox"
+    },
+    {
+      "dbcolumn": "DISPOSITION_COMMENT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Disposition Comment",
+      "type": "textbox"
+    }
+  ],
+  "EU EUTTR": [
+    {
+      "dbcolumn": "TICKET_NUMBER",
+      "Active": "1",
+      "Copy": "1",
+      "Mask": "1",
+      "label": "Ticket Number",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PNR",
+      "Active": "1",
+      "Copy": "1",
+      "Mask": "1",
+      "label": "PNR",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Function_Name",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Function Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "GDS",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "GDS",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "COUNTRY",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Country",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "OID",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "OID",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "OID_CREATION",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "OID Creation",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ISSUE_DATE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Issue Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DEPARTURE_DATE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Departure Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "LAST_TRAVEL_DATE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Last Travel Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "EXPIRATION_DATE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Expiration Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "CAREER",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Career",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PREFIX",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Prefix",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "CURRENCY",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Currency",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TOTAL_FARE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Total Fare",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PNR",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "PNR",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "GCN",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "GCN",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "GCN_NAME",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "GCN Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Comments",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Comment",
+      "type": "textbox"
+    },
+    {
+      "dbcolumn": "DISPOSITION_COMMENT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Disposition Comment",
+      "type": "textbox"
+    }
+  ],
+  "SG_GAIN_SHARE": [
+    {
+      "dbcolumn": "TICKET_NUMBER",
+      "Active": "1",
+      "Copy": "1",
+      "Mask": "1",
+      "label": "Ticket Number",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PNR",
+      "Active": "1",
+      "Copy": "1",
+      "Mask": "1",
+      "label": "PNR",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Function_Name",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Function Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ISSUE_DATE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Issue Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PASSENGER_NAME",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Passenger Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TICKET_TYPE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Ticket Type",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DOM_INT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "DOM/INT",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "AIRL_CODE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "AIRL CODE",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "CPN_NBR",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "CPN NBR",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "CPN_STATUS",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "CPN STATUS",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DATE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ORIG",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Originator",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DEST",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Destination",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "CXR",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "CXR",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "FLIGHT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Flight",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "CLASS",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Class",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Comments",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Comment",
+      "type": "textbox"
+    },
+    {
+      "dbcolumn": "DISPOSITION_COMMENT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Disposition Comment",
+      "type": "textbox"
+    }
+  ],
+  "SG_CREDIT_NOTES": [
+    {
+      "dbcolumn": "TICKET_NUMBER",
+      "Active": "1",
+      "Copy": "1",
+      "Mask": "1",
+      "label": "Ticket Number",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "LOCATOR",
+      "Active": "1",
+      "Copy": "1",
+      "Mask": "1",
+      "label": "locator",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Function_Name",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Function Name",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DATE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "SOURCE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Source",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "METHOD_OF_REFUND",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Method Of Refund",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "TYPE_OF_REFUND",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Type Of Refund",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "FOP",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "FOP",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "RA_NUMBER",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "RA Number",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "PAX_EMAIL",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "PAX E-mail",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DATE",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Date",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "ORIG",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Originator",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "DEST",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Destination",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "CXR",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "CXR",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "FLIGHT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Flight",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "CLASS",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Class",
+      "type": "label"
+    },
+    {
+      "dbcolumn": "Comments",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Comment",
+      "type": "textbox"
+    },
+    {
+      "dbcolumn": "DISPOSITION_COMMENT",
+      "Active": "1",
+      "Copy": "0",
+      "Mask": "0",
+      "label": "Disposition Comment",
+      "type": "textbox"
+    }
+  ]
+}
